@@ -20,7 +20,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-6 flex justify-between items-center">
         <div className="flex items-center gap-2">
           <Ticket className="h-6 w-6" />
-          <h1 className="text-2xl font-bold">TicketMaster</h1>
+          <h1 className="text-2xl font-bold">PartyHopper</h1>
         </div>
         <nav className="flex gap-6">
           <Link href="/" className="font-medium">Home</Link>
